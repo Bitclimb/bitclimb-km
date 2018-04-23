@@ -1,6 +1,6 @@
 {
   "name": "bitclimb-km",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Integration module for bitclimb to keymetrics",
   "private": false,
   "engines": {
